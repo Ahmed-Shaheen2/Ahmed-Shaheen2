@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmed-Shaheen2
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in backend python, php laravel projects
+- 🌱 I’m currently learning => project management
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me => e.shaheen13@gmail.com
 
 <!---
 Ahmed-Shaheen2/Ahmed-Shaheen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
