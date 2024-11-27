@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning => project management
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => e.shaheen13@gmail.com
+- LinkedIn Profile => https://www.linkedin.com/in/shaheen13/
 
 <!---
 Ahmed-Shaheen2/Ahmed-Shaheen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
